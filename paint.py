@@ -2,6 +2,7 @@
 Juego: Paint
 Programador 1: Luis José González
 Programador 2: Alejandro Díaz Villagómez
+Programador 3: Arturo el Rey
 
 Fecha: 9 / mayo / 2022
 """
