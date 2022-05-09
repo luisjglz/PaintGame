@@ -1,7 +1,7 @@
 """
 Juego: Paint
 Programador 1: Luis José González
-Programador 2: ??????
+Programador 2: Armando Mandujano 
 
 Fecha: 9 / mayo / 2022
 """
