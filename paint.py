@@ -6,6 +6,10 @@ Programador 2: ??????
 Fecha: 9 / mayo / 2022
 """
 
+"""
+Otro comment jiji
+"""
+
 from turtle import *
 
 from freegames import vector
