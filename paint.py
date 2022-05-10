@@ -12,6 +12,7 @@ Programador 9: Octavio Augusto Aleman Esparza
 Programador 10: Alejandro Díaz Villagómez
 Programador 11: Arturo el Rey
 Programador 12: Rodrigo Aldahir Rosete 
+Programador 13: Diego Isunza Garciacano
 
 Fecha: 9 / mayo / 2022
 """
