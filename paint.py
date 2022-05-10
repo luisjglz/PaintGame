@@ -1,7 +1,18 @@
 """
 Juego: Paint
 Programador 1: Luis José González
-Programador 2: Rodrigo Aldahir Rosete 
+Programador 2: Arturo el Rey
+Programador 3: elhector
+Programador 4: Octavio Augusto Aleman Esparza
+Programador 5: Alejandro Díaz Villagómez
+Programador 6: Arturo el Rey
+Programador 7: Armando Mandujano 
+Programador 8: Octavio Augusto Aleman Esparza
+Programador 9: Alejandro Díaz Villagómez
+Programador 10: Arturo el Rey
+Programador 11: Rodrigo Aldahir Rosete 
+
+
 
 Fecha: 9 / mayo / 2022
 """
